@@ -1,2 +1,3 @@
 # Hello_World
-A very first profile repository
+
+I am an ambitious individual who is eager to learn how to program. 
